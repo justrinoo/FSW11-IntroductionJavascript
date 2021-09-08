@@ -13,15 +13,24 @@ let data = {
 	website: "hildegard.org",
 };
 // A.
+// cara pertama
 const defaultData = data;
-const newObj = { ...defaultData };
-const newName = (newObj.name = "Rino Satya Putra");
-const newEmail = (newObj.email = "rinosatyaputra.id@gmail.com");
-const newHobby = (newObj.hoby = "Solving Problem");
+const newObj = {
+	...defaultData,
+	name: "Rino Satya Putra",
+	email: "rinosatyaputra.id@gmail.com",
+	hobby: "Solving Problem",
+};
+// cara kedua
+// const newName = (newObj.name = "Rino Satya Putra");
+// const newEmail = (newObj.email = "rinosatyaputra.id@gmail.com");
+// const newHobby = (newObj.hoby = "Solving Problem");
+
 console.log(newObj);
 
 // B.
-const { address } = data; // data.address not => {}
-const { street, city } = address;
+// const { address } = data; // data.address not => {}
+// const { street, city } = address;
+const { street, city } = data.address; // data.address not => {}
 console.log(street);
 console.log(city);

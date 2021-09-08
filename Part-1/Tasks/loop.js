@@ -1,10 +1,13 @@
-const printSegitiga = 5;
-let temp = "";
-for (let i = 1; i <= printSegitiga; i++) {
-	for (let x = 1; x <= printSegitiga - i + 1; x++) {
-		temp += x;
-	}
-	temp += "\n";
-}
+const inputNum = 5;
 
-console.log(temp);
+if (typeof inputNum === "number") {
+	for (let i = inputNum; i >= 1; i--) {
+		let result = "";
+		for (let j = 1; j <= i; j++) {
+			result += j;
+		}
+		console.log(result);
+	}
+} else {
+	console.log("Data harus number");
+}
