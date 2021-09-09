@@ -1,7 +1,7 @@
-const inputNum = 5;
+const prtinSegitiga = 5;
 
-if (typeof inputNum === "number") {
-	for (let i = inputNum; i >= 1; i--) {
+if (typeof prtinSegitiga === "number") {
+	for (let i = prtinSegitiga; i >= 1; i--) {
 		let result = "";
 		for (let j = 1; j <= i; j++) {
 			result += j;

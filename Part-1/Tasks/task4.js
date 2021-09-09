@@ -29,8 +29,8 @@ const newObj = {
 console.log(newObj);
 
 // B.
-// const { address } = data; // data.address not => {}
-// const { street, city } = address;
-const { street, city } = data.address; // data.address not => {}
-console.log(street);
-console.log(city);
+const { address } = data; // data.address not => {}
+const { street, city } = address;
+// const { street, city } = data.address; // data.address not => {}
+// console.log(street);
+// console.log(city);

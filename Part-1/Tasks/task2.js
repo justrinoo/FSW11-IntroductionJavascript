@@ -4,7 +4,9 @@ const bahasaInggris = 89;
 const Ipa = 69;
 
 const niilaiRataRata = (matematika + bahasaIndonesia + bahasaInggris + Ipa) / 4;
-if (niilaiRataRata || niilaiRataRata === 0) {
+console.log(niilaiRataRata);
+if (niilaiRataRata || (niilaiRataRata >= 0 && niilaiRataRata <= 100)) {
+	// atau mengecek dengan nilaiRataRata === 0 jika nilainya itu adalah 0
 	if (niilaiRataRata >= 90 && niilaiRataRata <= 100) {
 		console.log(`Rata-rata = ${niilaiRataRata}`);
 		console.log(`Grade = A`);
