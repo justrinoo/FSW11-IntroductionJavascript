@@ -7,7 +7,6 @@ function SeleksiNilai(nilaiAwal, nilaiAkhir, dataArray) {
 					return value;
 				}
 			});
-			// console.log(typeof result)
 			if (result.length > 0) {
 				return result.sort(function (a, b) {
 					return a - b;
@@ -22,4 +21,4 @@ function SeleksiNilai(nilaiAwal, nilaiAkhir, dataArray) {
 		return "Jumlah angka dalam dataArray harus lebih dari 5";
 	}
 }
-console.log(SeleksiNilai(5, 17, [2, 25, 4, 1, 30, 18]));
+console.log(SeleksiNilai(5, 20, [2, 25, 4, 1, 30, 18]));

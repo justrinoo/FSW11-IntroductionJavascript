@@ -21,21 +21,21 @@ function searchName(input, limit, callback) {
 	let foundName = name.filter(function (value) {
 		return value.toLowerCase().includes(input.slice(0, limit));
 	});
+
 	if (limit <= 3) {
 		foundName.splice(limit);
 	} else {
 		foundName = null;
-		callback("maaf data hanya bisa 3...");
+		callback("Maaf data hanya bisa 3");
 	}
-
 	return foundName;
 }
 
-function messageLimit(pesan) {
-	console.log(pesan);
+function messageLimit(message) {
+	console.log(message);
 }
 
-console.log(searchName("ol", 3, messageLimit));
+console.log(searchName("an", 3, messageLimit));
 
 // const testName = name.filter((value) => value === "Olivia");
 // const changeStr = testName;

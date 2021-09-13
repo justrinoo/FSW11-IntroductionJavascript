@@ -1,5 +1,5 @@
 // Build Function Array
-// 1. push() untuk menambahkan element array ke akhir
+// 1. push() untuk menambahkan element array ke akhir array
 // contoh:
 const exArr = [1, 2, 3, 4];
 exArr.push(5);
@@ -20,14 +20,14 @@ const newObj = {
 	tanggalSekarang: 10,
 	text: "nama saya adalah lionel messi",
 };
-console.log(newObj.tanggalSekarang.toString());
+console.log(typeof newObj.tanggalSekarang.toString());
 
 // 4. replace() untuk mereplace data baru dalam bentuk string dan mencocokannya dengan valuenya
 // contoh:
-console.log(newObj.text.replace("lionel messi", "Rino Satya Putra"));
+console.log(newObj.text.replace("lionel messi", "Rino satya Putra"));
 
 // Build Function String
-// 6. toUpperCase() untuk mengubah element atau teks menjadi kapital atau huruf besar semua
+// 5. toUpperCase() untuk mengubah element atau teks menjadi kapital atau huruf besar semua
 // contoh:
 const myName = "rIno sAtYa Putra";
 console.log(myName.toUpperCase());
