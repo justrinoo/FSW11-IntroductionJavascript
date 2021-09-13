@@ -22,12 +22,13 @@ function searchName(input, limit, callback) {
 		return value.toLowerCase().includes(input.slice(0, limit));
 	});
 
-	if (limit <= 3) {
+	if (limit > 0) {
 		foundName.splice(limit);
 	} else {
 		foundName = null;
-		callback("Maaf data hanya bisa 3");
+		callback("Maaf data harus lebih dari 0");
 	}
+
 	return foundName;
 }
 
@@ -35,12 +36,4 @@ function messageLimit(message) {
 	console.log(message);
 }
 
-console.log(searchName("an", 3, messageLimit));
-
-// const testName = name.filter((value) => value === "Olivia");
-// const changeStr = testName;
-// const values = changeStr.map((value) =>
-// 	value.length - 5 ? value.toString().toLowerCase() : " "
-// );
-
-// console.log(values);
+console.log(searchName("an", 5, messageLimit));

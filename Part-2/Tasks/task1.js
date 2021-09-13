@@ -24,7 +24,7 @@ console.log(typeof newObj.tanggalSekarang.toString());
 
 // 4. replace() untuk mereplace data baru dalam bentuk string dan mencocokannya dengan valuenya
 // contoh:
-console.log(newObj.text.replace("lionel messi", "Rino satya Putra"));
+console.log(newObj.text.replace("lionel messi", "Rino Satya Putra"));
 
 // Build Function String
 // 5. toUpperCase() untuk mengubah element atau teks menjadi kapital atau huruf besar semua
