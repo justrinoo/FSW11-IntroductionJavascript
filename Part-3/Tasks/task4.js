@@ -5,7 +5,7 @@ const getDataName = () => {
 	// pending => result response
 	return users
 		.then((response) => response.json())
-		.then((result) => result.map((value) => console.log(value.name)));
+		.then((results) => results.map((value) => console.log(value.name)));
 };
 
 getDataName();
