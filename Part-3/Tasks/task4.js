@@ -1,14 +1,11 @@
 // using promise
 const getDataName = () => {
 	// default fetch = promise
-	const data = fetch("https://jsonplaceholder.typicode.com/users");
+	const users = fetch("https://jsonplaceholder.typicode.com/users");
 	// pending => result response
-	return data
+	return users
 		.then((response) => response.json())
-		.then((results) => {
-			const getName = results.map((value) => console.log(value.name));
-			return getName;
-		});
+		.then((result) => result.map((value) => console.log(value.name)));
 };
 
 getDataName();

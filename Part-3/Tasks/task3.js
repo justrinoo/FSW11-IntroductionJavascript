@@ -20,8 +20,8 @@ const cekTanggalUlangTahun = (inputTanggal, inputBulan) =>
 			value.toLocaleLowerCase().includes(inputBulan)
 		);
 
-		const tanggalSekarang = new Date(Date.now()).getFullYear();
-		const tanggalTahun = tanggalSekarang - inputTanggal;
+		const tahunSekarang = new Date(Date.now()).getFullYear();
+		const tanggalTahun = tahunSekarang - inputTanggal;
 		if (typeof inputTanggal !== "number") {
 			reject("Tanggal Harus berupa angka...");
 		}
@@ -29,7 +29,7 @@ const cekTanggalUlangTahun = (inputTanggal, inputBulan) =>
 		resolve(`${inputTanggal} ${cariBulan} ${tanggalTahun}`);
 	});
 
-cekTanggalUlangTahun(18, ["januari"])
+cekTanggalUlangTahun(23, ["maret"])
 	.then((value) => console.log(value))
 	.catch((err) => console.log(err));
 
@@ -72,7 +72,5 @@ const myActivity = (nama, waktu) =>
 		});
 	});
 
-senin = myActivity("Rino", "siang");
-senin
-	.then((result) => console.log(result))
-	.catch((error) => console.log(error.message));
+siang = myActivity("Rino", "malam");
+siang.then((result) => console.log(result));
