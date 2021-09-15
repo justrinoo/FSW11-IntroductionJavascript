@@ -1,37 +1,37 @@
-// 1. Cek Tahun kelahiran
-const bulan = [
-	"Januari",
-	"Februari",
-	"Maret",
-	"April",
-	"Mei",
-	"Juni",
-	"Juli",
-	"Agustus",
-	"September",
-	"Oktober",
-	"November",
-	"Desember",
-];
+// // 1. Cek Tahun kelahiran
+// const bulan = [
+// 	"Januari",
+// 	"Februari",
+// 	"Maret",
+// 	"April",
+// 	"Mei",
+// 	"Juni",
+// 	"Juli",
+// 	"Agustus",
+// 	"September",
+// 	"Oktober",
+// 	"November",
+// 	"Desember",
+// ];
 
-const cekTanggalUlangTahun = (inputTanggal, inputBulan) =>
-	new Promise((resolve, reject) => {
-		const cariBulan = bulan.filter((value) =>
-			value.toLocaleLowerCase().includes(inputBulan)
-		);
+// const cekTanggalUlangTahun = (inputTanggal, inputBulan) =>
+// 	new Promise((resolve, reject) => {
+// 		const cariBulan = bulan.filter((value) =>
+// 			value.toLocaleLowerCase().includes(inputBulan)
+// 		);
 
-		const tahunSekarang = new Date(Date.now()).getFullYear();
-		const tanggalTahun = tahunSekarang - inputTanggal;
-		if (typeof inputTanggal !== "number") {
-			reject("Tanggal Harus berupa angka...");
-		}
+// 		const tahunSekarang = new Date(Date.now()).getFullYear();
+// 		const tanggalTahun = tahunSekarang - inputTanggal;
+// 		if (typeof inputTanggal !== "number") {
+// 			reject("Tanggal Harus berupa angka...");
+// 		}
 
-		resolve(`${inputTanggal} ${cariBulan} ${tanggalTahun}`);
-	});
+// 		resolve(`${inputTanggal} ${cariBulan} ${tanggalTahun}`);
+// 	});
 
-cekTanggalUlangTahun(23, ["maret"])
-	.then((value) => console.log(value))
-	.catch((err) => console.log(err));
+// cekTanggalUlangTahun("18", ["maret"])
+// 	.then((value) => console.log(value))
+// 	.catch((err) => console.log(err));
 
 // 2. My Activity
 const activities = [
@@ -72,5 +72,5 @@ const myActivity = (nama, waktu) =>
 		});
 	});
 
-siang = myActivity("Rino", "malam");
+siang = myActivity("Rino", "pagi");
 siang.then((result) => console.log(result));

@@ -15,23 +15,23 @@ const cekHariKerja = (day) => {
 };
 
 // Then&Catch
-const senin = cekHariKerja("minggu");
-senin
-	.then((result) => {
-		console.log(result);
-	})
-	.catch((error) => console.log(error.message));
+// const hari = cekHariKerja("senin");
+// hari
+// 	.then((result) => {
+// 		console.log(result);
+// 	})
+// 	.catch((error) => console.log(error.message));
 
 // Async / Await
-const prosesHari = async () => {
-	try {
-		const senin = await cekHariKerja("minggu");
-		console.log(senin);
-	} catch (error) {
-		console.log(error.message);
-	}
-};
-prosesHari();
+// const prosesHari = async () => {
+// 	try {
+// 		const senin = await cekHariKerja("senin");
+// 		console.log(senin);
+// 	} catch (error) {
+// 		console.log(error.message);
+// 	}
+// };
+// prosesHari();
 
 /**
  *  Handling Error

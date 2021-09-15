@@ -1,6 +1,6 @@
 const getMounth = (callback) => {
 	setTimeout(() => {
-		let error = false;
+		let error = true;
 		let month = [
 			"January",
 			"February",
@@ -24,17 +24,15 @@ const getMounth = (callback) => {
 };
 
 getMounth((type, month) => {
-	let error = false;
-	let temp;
-	if (!error) {
-		console.log(type);
+	// let temp;
+	if (!type) {
 		month.map((value) => {
 			console.log(value);
 		});
 	} else {
-		[temp, month] = [month, temp];
-		temp = [];
+		// [temp, month] = [month, temp];
+		// temp = [];
 		console.log(type.message);
-		console.log(temp);
+		console.log(month);
 	}
 });
