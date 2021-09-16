@@ -1,1 +1,336 @@
-<mxfile host="app.diagrams.net" modified="2021-09-15T15:54:50.080Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="d0y-8Dn83YxcRx0Jjc7w" version="15.1.1" type="github"><diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">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</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-16T10:30:03.324Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="svAS3vx9VWQ2828XZY2C" version="15.2.7" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1156" dy="1083" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="PaFGZIn1e4kdp1-qGl9o-0" value="&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;Flowchart ArkFood&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1690" y="80" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PaFGZIn1e4kdp1-qGl9o-123" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PaFGZIn1e4kdp1-qGl9o-121" target="PaFGZIn1e4kdp1-qGl9o-122" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PaFGZIn1e4kdp1-qGl9o-121" value="&lt;b&gt;Mulai&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1730" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PaFGZIn1e4kdp1-qGl9o-125" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PaFGZIn1e4kdp1-qGl9o-122" target="PaFGZIn1e4kdp1-qGl9o-124" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PaFGZIn1e4kdp1-qGl9o-122" value="&lt;font style=&quot;font-size: 13px&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;Input&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;harga,&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;voucher,&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;jarak,&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;pajak&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1710" y="270" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PaFGZIn1e4kdp1-qGl9o-127" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PaFGZIn1e4kdp1-qGl9o-124" target="PaFGZIn1e4kdp1-qGl9o-126" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PaFGZIn1e4kdp1-qGl9o-124" value="&lt;span&gt;define variable jarak &amp;amp;&amp;amp; define variable promo&lt;/span&gt;" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1720" y="440" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="PaFGZIn1e4kdp1-qGl9o-129" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PaFGZIn1e4kdp1-qGl9o-126" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1610" y="642.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PaFGZIn1e4kdp1-qGl9o-130" value="FALSE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="PaFGZIn1e4kdp1-qGl9o-129" vertex="1" connectable="0">
+          <mxGeometry x="0.1308" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PaFGZIn1e4kdp1-qGl9o-132" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PaFGZIn1e4kdp1-qGl9o-126" target="PaFGZIn1e4kdp1-qGl9o-131" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PaFGZIn1e4kdp1-qGl9o-133" value="TRUE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="PaFGZIn1e4kdp1-qGl9o-132" vertex="1" connectable="0">
+          <mxGeometry x="-0.0484" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PaFGZIn1e4kdp1-qGl9o-126" value="pajak&lt;br&gt;===&lt;br&gt;true ?" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1712.5" y="565" width="155" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="PaFGZIn1e4kdp1-qGl9o-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="PaFGZIn1e4kdp1-qGl9o-131" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1540" y="673" />
+              <mxPoint x="1540" y="870" />
+            </Array>
+            <mxPoint x="1560" y="672.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PaFGZIn1e4kdp1-qGl9o-135" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PaFGZIn1e4kdp1-qGl9o-131" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2010" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PaFGZIn1e4kdp1-qGl9o-136" value="TRUE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="PaFGZIn1e4kdp1-qGl9o-135" vertex="1" connectable="0">
+          <mxGeometry x="-0.085" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PaFGZIn1e4kdp1-qGl9o-154" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PaFGZIn1e4kdp1-qGl9o-131" target="PaFGZIn1e4kdp1-qGl9o-153" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PaFGZIn1e4kdp1-qGl9o-156" value="FALSE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="PaFGZIn1e4kdp1-qGl9o-154" vertex="1" connectable="0">
+          <mxGeometry x="0.2711" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PaFGZIn1e4kdp1-qGl9o-131" value="voucher&lt;br&gt;===&lt;br&gt;&quot;ARKFOOD5&quot;&lt;br&gt;&amp;amp;&amp;amp;&amp;nbsp;&lt;br&gt;harga&lt;br&gt;&amp;gt;=&lt;br&gt;minArkFood" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1700" y="780" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="PaFGZIn1e4kdp1-qGl9o-138" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="PaFGZIn1e4kdp1-qGl9o-137" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2150" y="870" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PaFGZIn1e4kdp1-qGl9o-140" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PaFGZIn1e4kdp1-qGl9o-137" target="PaFGZIn1e4kdp1-qGl9o-139" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PaFGZIn1e4kdp1-qGl9o-137" value="&#xa;&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;subTotal&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250);&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;=&lt;/span&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250);&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;harga - hargaDiskon + totalHargaOngkir + totalPajak&lt;/span&gt;&#xa;&#xa;" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="2250" y="830" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PaFGZIn1e4kdp1-qGl9o-142" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PaFGZIn1e4kdp1-qGl9o-139" target="PaFGZIn1e4kdp1-qGl9o-141" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PaFGZIn1e4kdp1-qGl9o-139" value="&#xa;&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;maxPotongan&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250);&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;=&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250);&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;50000&lt;/span&gt;&#xa;&#xa;" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="2530" y="835" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="PaFGZIn1e4kdp1-qGl9o-144" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PaFGZIn1e4kdp1-qGl9o-141" target="PaFGZIn1e4kdp1-qGl9o-143" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PaFGZIn1e4kdp1-qGl9o-145" value="TRUE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="PaFGZIn1e4kdp1-qGl9o-144" vertex="1" connectable="0">
+          <mxGeometry x="-0.1735" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PaFGZIn1e4kdp1-qGl9o-147" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PaFGZIn1e4kdp1-qGl9o-141" target="PaFGZIn1e4kdp1-qGl9o-146" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PaFGZIn1e4kdp1-qGl9o-148" value="FALSE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="PaFGZIn1e4kdp1-qGl9o-147" vertex="1" connectable="0">
+          <mxGeometry x="-0.2148" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PaFGZIn1e4kdp1-qGl9o-141" value="subTotal&amp;nbsp;&lt;br&gt;&amp;gt;&amp;nbsp;&lt;br&gt;maxPotongan" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="2800" y="810" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="PaFGZIn1e4kdp1-qGl9o-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PaFGZIn1e4kdp1-qGl9o-143" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3340" y="1050" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="3340" y="1040" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PaFGZIn1e4kdp1-qGl9o-143" value="&lt;br&gt;&quot;harga diatas diskon&quot;&lt;br&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;Harga: harga,&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;Potongan: hargaDiskon,&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;Biaya Antar: totalHargaOngkir&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;pajak: totalPajak,&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;subTotal: subTotal&lt;/span&gt;&lt;br&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="2760" y="1000" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="PaFGZIn1e4kdp1-qGl9o-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PaFGZIn1e4kdp1-qGl9o-146" target="PaFGZIn1e4kdp1-qGl9o-150" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3280" y="1430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="3340" y="870" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PaFGZIn1e4kdp1-qGl9o-146" value="&lt;br&gt;&lt;br&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;&quot;harga diatas diskon&quot;&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; font-family: &amp;#34;helvetica&amp;#34; ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;Harga: harga,&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; font-family: &amp;#34;helvetica&amp;#34; ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; font-family: &amp;#34;helvetica&amp;#34; ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;Potongan: hargaDiskon,&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; font-family: &amp;#34;helvetica&amp;#34; ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; font-family: &amp;#34;helvetica&amp;#34; ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;Biaya Antar: totalHargaOngkir&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; font-family: &amp;#34;helvetica&amp;#34; ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; font-family: &amp;#34;helvetica&amp;#34; ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;pajak: totalPajak,&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; font-family: &amp;#34;helvetica&amp;#34; ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; font-family: &amp;#34;helvetica&amp;#34; ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;subTotal: subTotal&lt;br&gt;&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;br&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="3050" y="818.13" width="180" height="103.75" as="geometry" />
+        </mxCell>
+        <mxCell id="PaFGZIn1e4kdp1-qGl9o-205" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PaFGZIn1e4kdp1-qGl9o-150" target="PaFGZIn1e4kdp1-qGl9o-204" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PaFGZIn1e4kdp1-qGl9o-150" value="Output Hasil" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="3270" y="1829.9999999999998" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PaFGZIn1e4kdp1-qGl9o-187" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.107;entryY=0.522;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PaFGZIn1e4kdp1-qGl9o-153" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2054.98" y="1361.53" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PaFGZIn1e4kdp1-qGl9o-188" value="TRUE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="PaFGZIn1e4kdp1-qGl9o-187" vertex="1" connectable="0">
+          <mxGeometry x="-0.0551" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PaFGZIn1e4kdp1-qGl9o-192" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PaFGZIn1e4kdp1-qGl9o-153" target="PaFGZIn1e4kdp1-qGl9o-191" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PaFGZIn1e4kdp1-qGl9o-153" value="voucher&lt;br&gt;===&lt;br&gt;&quot;DITRAKTIRDEMY&quot;&lt;br&gt;&amp;amp;&amp;amp;&amp;nbsp;&lt;br&gt;harga&lt;br&gt;&amp;gt;=&lt;br&gt;minTraktirDemy" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1700" y="1269.99" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="PaFGZIn1e4kdp1-qGl9o-172" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="PaFGZIn1e4kdp1-qGl9o-175" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2180" y="1359.99" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PaFGZIn1e4kdp1-qGl9o-174" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PaFGZIn1e4kdp1-qGl9o-175" target="PaFGZIn1e4kdp1-qGl9o-177" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PaFGZIn1e4kdp1-qGl9o-175" value="&#xa;&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;subTotal&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250);&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;=&lt;/span&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250);&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;harga - hargaDiskon + totalHargaOngkir + totalPajak&lt;/span&gt;&#xa;&#xa;" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="2330" y="1319.9900000000002" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PaFGZIn1e4kdp1-qGl9o-176" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PaFGZIn1e4kdp1-qGl9o-177" target="PaFGZIn1e4kdp1-qGl9o-182" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PaFGZIn1e4kdp1-qGl9o-177" value="&#xa;&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;maxPotongan&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250);&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;=&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250);&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;50000&lt;/span&gt;&#xa;&#xa;" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="2570" y="1324.98" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="PaFGZIn1e4kdp1-qGl9o-178" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PaFGZIn1e4kdp1-qGl9o-182" target="PaFGZIn1e4kdp1-qGl9o-184" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PaFGZIn1e4kdp1-qGl9o-179" value="TRUE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="PaFGZIn1e4kdp1-qGl9o-178" vertex="1" connectable="0">
+          <mxGeometry x="-0.1735" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PaFGZIn1e4kdp1-qGl9o-180" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PaFGZIn1e4kdp1-qGl9o-182" target="PaFGZIn1e4kdp1-qGl9o-185" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PaFGZIn1e4kdp1-qGl9o-181" value="FALSE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="PaFGZIn1e4kdp1-qGl9o-180" vertex="1" connectable="0">
+          <mxGeometry x="-0.2148" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PaFGZIn1e4kdp1-qGl9o-182" value="subTotal&amp;nbsp;&lt;br&gt;&amp;gt;&amp;nbsp;&lt;br&gt;maxPotongan" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="2835" y="1299.98" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5jwOmSzlYV4P9Ct9sqf--28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PaFGZIn1e4kdp1-qGl9o-184">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3340" y="1550" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="3340" y="1540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PaFGZIn1e4kdp1-qGl9o-184" value="&lt;br&gt;&quot;harga diatas diskon&quot;&lt;br&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;Harga: harga,&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;Potongan: hargaDiskon,&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;Biaya Antar: totalHargaOngkir&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;pajak: totalPajak,&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;subTotal: subTotal&lt;/span&gt;&lt;br&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="2795" y="1500" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5jwOmSzlYV4P9Ct9sqf--25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PaFGZIn1e4kdp1-qGl9o-185">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3339.9999999999995" y="1359.975" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="3340" y="1350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PaFGZIn1e4kdp1-qGl9o-185" value="&lt;br&gt;&lt;br&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;&quot;harga diatas diskon&quot;&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; font-family: &amp;#34;helvetica&amp;#34; ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;Harga: harga,&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; font-family: &amp;#34;helvetica&amp;#34; ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; font-family: &amp;#34;helvetica&amp;#34; ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;Potongan: hargaDiskon,&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; font-family: &amp;#34;helvetica&amp;#34; ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; font-family: &amp;#34;helvetica&amp;#34; ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;Biaya Antar: totalHargaOngkir&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; font-family: &amp;#34;helvetica&amp;#34; ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; font-family: &amp;#34;helvetica&amp;#34; ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;pajak: totalPajak,&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; font-family: &amp;#34;helvetica&amp;#34; ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; font-family: &amp;#34;helvetica&amp;#34; ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;subTotal: subTotal&lt;br&gt;&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;br&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="3070" y="1308.1" width="180" height="103.75" as="geometry" />
+        </mxCell>
+        <mxCell id="PaFGZIn1e4kdp1-qGl9o-194" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PaFGZIn1e4kdp1-qGl9o-191" target="PaFGZIn1e4kdp1-qGl9o-193" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PaFGZIn1e4kdp1-qGl9o-196" value="TRUE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="PaFGZIn1e4kdp1-qGl9o-194" vertex="1" connectable="0">
+          <mxGeometry x="0.0549" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PaFGZIn1e4kdp1-qGl9o-202" value="FALSE" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PaFGZIn1e4kdp1-qGl9o-191" target="PaFGZIn1e4kdp1-qGl9o-150" edge="1">
+          <mxGeometry x="0.04" relative="1" as="geometry">
+            <mxPoint x="2484.278205422794" y="1910" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1790" y="1848" />
+              <mxPoint x="3260" y="1848" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PaFGZIn1e4kdp1-qGl9o-191" value="voucher&amp;nbsp;&lt;br&gt;!==&lt;br&gt;&quot;ARKFOOD5&quot;&lt;br&gt;&amp;amp;&amp;amp;&lt;br&gt;&quot;DITRAKTIRDEMY&quot;" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1712.5" y="1630" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="PaFGZIn1e4kdp1-qGl9o-198" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PaFGZIn1e4kdp1-qGl9o-193" target="PaFGZIn1e4kdp1-qGl9o-197" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PaFGZIn1e4kdp1-qGl9o-193" value="hargaDiskon = 0" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="2062.5" y="1670" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PaFGZIn1e4kdp1-qGl9o-200" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PaFGZIn1e4kdp1-qGl9o-197" target="PaFGZIn1e4kdp1-qGl9o-199" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PaFGZIn1e4kdp1-qGl9o-197" value="subTotal&amp;nbsp;&lt;br&gt;=&amp;nbsp;&lt;br&gt;hargaTotal + totalPajak + totalhargaOngkir" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="2343.93" y="1662.5" width="203.57" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="PaFGZIn1e4kdp1-qGl9o-201" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PaFGZIn1e4kdp1-qGl9o-199" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3342.5" y="1709" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="3342.5" y="1700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PaFGZIn1e4kdp1-qGl9o-199" value="&lt;br&gt;&lt;span&gt;&quot;tidak ada diskon&quot;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;Harga: harga,&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;Potongan: hargaDiskon,&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;Biaya Antar: totalHargaOngkir&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;pajak: totalPajak,&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;subTotal: subTotal&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="2762.5" y="1654" width="220" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="PaFGZIn1e4kdp1-qGl9o-204" value="&lt;b&gt;Selesai&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="3270" y="1959.9999999999998" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5jwOmSzlYV4P9Ct9sqf--0" value="0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1490" y="612.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5jwOmSzlYV4P9Ct9sqf--3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5jwOmSzlYV4P9Ct9sqf--1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2085" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5jwOmSzlYV4P9Ct9sqf--9" value="TRUE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5jwOmSzlYV4P9Ct9sqf--3">
+          <mxGeometry x="-0.1759" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5jwOmSzlYV4P9Ct9sqf--11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5jwOmSzlYV4P9Ct9sqf--1" target="5jwOmSzlYV4P9Ct9sqf--10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5jwOmSzlYV4P9Ct9sqf--12" value="FALSE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5jwOmSzlYV4P9Ct9sqf--11">
+          <mxGeometry x="0.2295" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5jwOmSzlYV4P9Ct9sqf--1" value="(harga * 50)&lt;br&gt;/ &lt;br&gt;100&lt;br&gt;&amp;gt;&amp;nbsp;&lt;br&gt;50000" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2010" y="795" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="5jwOmSzlYV4P9Ct9sqf--8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5jwOmSzlYV4P9Ct9sqf--6" target="PaFGZIn1e4kdp1-qGl9o-137">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5jwOmSzlYV4P9Ct9sqf--6" value="50000" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2025" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5jwOmSzlYV4P9Ct9sqf--13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5jwOmSzlYV4P9Ct9sqf--10" target="PaFGZIn1e4kdp1-qGl9o-137">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5jwOmSzlYV4P9Ct9sqf--10" value="(harga * 50) / 100" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2025" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5jwOmSzlYV4P9Ct9sqf--16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5jwOmSzlYV4P9Ct9sqf--14" target="5jwOmSzlYV4P9Ct9sqf--15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2115" y="1259.9950000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5jwOmSzlYV4P9Ct9sqf--17" value="FALSE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5jwOmSzlYV4P9Ct9sqf--16">
+          <mxGeometry x="-0.1287" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5jwOmSzlYV4P9Ct9sqf--20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5jwOmSzlYV4P9Ct9sqf--14" target="5jwOmSzlYV4P9Ct9sqf--19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5jwOmSzlYV4P9Ct9sqf--21" value="TRUE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5jwOmSzlYV4P9Ct9sqf--20">
+          <mxGeometry x="-0.3092" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5jwOmSzlYV4P9Ct9sqf--14" value="(harga * 60)&amp;nbsp;&lt;br&gt;/&amp;nbsp;&lt;br&gt;100&lt;br&gt;&amp;gt;&lt;br&gt;30000" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2055.01" y="1294.98" width="130.01" height="130.01" as="geometry" />
+        </mxCell>
+        <mxCell id="5jwOmSzlYV4P9Ct9sqf--18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5jwOmSzlYV4P9Ct9sqf--15" target="PaFGZIn1e4kdp1-qGl9o-175">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5jwOmSzlYV4P9Ct9sqf--15" value="30000" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2060.0150000000003" y="1169.0049999999999" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5jwOmSzlYV4P9Ct9sqf--22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5jwOmSzlYV4P9Ct9sqf--19" target="PaFGZIn1e4kdp1-qGl9o-175">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5jwOmSzlYV4P9Ct9sqf--19" value="&lt;span&gt;hargaDiskon&lt;/span&gt;&lt;br&gt;&lt;span&gt;=&lt;/span&gt;&lt;br&gt;&lt;span&gt;(harga * 60) /100&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2060.0150000000003" y="1510.0049999999999" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
