@@ -8,10 +8,10 @@ function arkFood(harga, voucher, jarak, pajak) {
 	let tarifPertama = 5000;
 	let tarifSelanjutnya = 3000;
 	let sisaKilometer = jarak - kilometer;
-	let totalTarif = sisaKilometer * tarifSelanjutnya;
+	let totalTarif = sisaKilometer <= 2 ? 0 : sisaKilometer * tarifSelanjutnya;
 	let totalHargaOngkir = totalTarif + tarifPertama;
 	const totalPajak = pajak === true ? harga * (5 / 100) : 0;
-
+	// totalPajak = 0
 	if (voucher === "ARKAFOOD5" && harga >= minArkFood) {
 		const hargaDiskon = (harga * 50) / 100 > 50000 ? 50000 : (harga * 50) / 100;
 		// dsni di itung bersama jarak ongkir + pajaknya
@@ -44,4 +44,4 @@ function arkFood(harga, voucher, jarak, pajak) {
 	}
 }
 
-console.log(arkFood(75000, "DITRAKTIRDEMY", 5, true));
+console.log(arkFood(75000, "ARKAFOOD5", 1, true));
