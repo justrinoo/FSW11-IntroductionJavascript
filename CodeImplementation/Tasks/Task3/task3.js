@@ -44,4 +44,4 @@ function arkFood(harga, voucher, jarak, pajak) {
 	}
 }
 
-console.log(arkFood(100000, "DITRAKTIRDEMY", 5, true));
+console.log(arkFood(75000, "DITRAKTIRDEMY", 5, true));

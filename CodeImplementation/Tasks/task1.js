@@ -1,4 +1,4 @@
-const inputPalindrom = " ";
+const inputPalindrom = "kakak";
 const arrPalindrom = [...inputPalindrom];
 const prosesPalindrom = arrPalindrom.reverse().join("");
 if (

@@ -1,4 +1,4 @@
-const inputWords = "Saya belajar Javascript";
+const inputWords = "Saya belajar javascript";
 const changeWords = inputWords.split(" ").reverse().join(" ");
 return changeWords.length > 0 && inputWords !== " "
 	? console.log(changeWords)
