@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-17T03:11:25.717Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="LUBo87ZK0x1PnZltXI9s" version="15.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-17T03:31:34.713Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="NuimEQWz3o_yxaDhmFJE" version="15.2.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="873" dy="929" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="23" dy="464" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -158,6 +158,11 @@
         <mxCell id="PaFGZIn1e4kdp1-qGl9o-192" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PaFGZIn1e4kdp1-qGl9o-153" target="PaFGZIn1e4kdp1-qGl9o-191" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="w5iaB32TTlPGsbIrGKbN-3" value="FALSE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PaFGZIn1e4kdp1-qGl9o-192">
+          <mxGeometry x="-0.0872" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="PaFGZIn1e4kdp1-qGl9o-153" value="voucher&lt;br&gt;===&lt;br&gt;&quot;DITRAKTIRDEMY&quot;&lt;br&gt;&amp;amp;&amp;amp;&amp;nbsp;&lt;br&gt;harga&lt;br&gt;&amp;gt;=&lt;br&gt;minTraktirDemy" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1700" y="1269.99" width="180" height="180" as="geometry" />
         </mxCell>
@@ -238,19 +243,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PaFGZIn1e4kdp1-qGl9o-191" value="voucher&amp;nbsp;&lt;br&gt;!==&lt;br&gt;&quot;ARKFOOD5&quot;&lt;br&gt;&amp;amp;&amp;amp;&lt;br&gt;&quot;DITRAKTIRDEMY&quot;" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1712.5" y="1630" width="160" height="160" as="geometry" />
+          <mxGeometry x="1710" y="1650" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="PaFGZIn1e4kdp1-qGl9o-198" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PaFGZIn1e4kdp1-qGl9o-193" target="PaFGZIn1e4kdp1-qGl9o-197" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PaFGZIn1e4kdp1-qGl9o-193" value="hargaDiskon = 0" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="2062.5" y="1670" width="160" height="80" as="geometry" />
+          <mxGeometry x="2070" y="1690" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PaFGZIn1e4kdp1-qGl9o-200" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PaFGZIn1e4kdp1-qGl9o-197" target="PaFGZIn1e4kdp1-qGl9o-199" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PaFGZIn1e4kdp1-qGl9o-197" value="subTotal&amp;nbsp;&lt;br&gt;=&amp;nbsp;&lt;br&gt;hargaTotal + totalPajak + totalhargaOngkir" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="2343.93" y="1662.5" width="203.57" height="95" as="geometry" />
+          <mxGeometry x="2366.43" y="1682.5" width="203.57" height="95" as="geometry" />
         </mxCell>
         <mxCell id="PaFGZIn1e4kdp1-qGl9o-201" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PaFGZIn1e4kdp1-qGl9o-199" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -261,7 +266,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PaFGZIn1e4kdp1-qGl9o-199" value="&lt;br&gt;&lt;span&gt;&quot;tidak ada diskon&quot;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;Harga: harga,&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;Potongan: hargaDiskon,&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;Biaya Antar: totalHargaOngkir&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;pajak: totalPajak,&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;subTotal: subTotal&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="2762.5" y="1654" width="220" height="110" as="geometry" />
+          <mxGeometry x="2785" y="1675" width="220" height="110" as="geometry" />
         </mxCell>
         <mxCell id="PaFGZIn1e4kdp1-qGl9o-204" value="&lt;b&gt;Selesai&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="3270" y="1959.9999999999998" width="120" height="60" as="geometry" />
